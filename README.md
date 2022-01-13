@@ -1,5 +1,5 @@
-# docker-python
-A simple dockerised python application 
+# A simple Dockerised Python Project
+This repo returns a simple python dockerised project. 
 
 ## Getting started
 Open your terminal and run the below command
